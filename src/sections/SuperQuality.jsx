@@ -1,4 +1,4 @@
-import { arrowRight } from "../assets/icons";
+
 import { shoe8 } from "../assets/images";
 import Button from "../components/Button";
 
@@ -23,7 +23,7 @@ const SuperQuality = () => {
           is designed to elevate your experience m providing you with unmatched
           quality, innovation and a touch of elegance
         </p>
-        <p className="mt06 lg:max-w-lg info-text">
+        <p className="mt-6 lg:max-w-lg info-text">
           Our dedication to detail and excellence ensures your satisfaction
         </p>
         <div className="mt-11">
